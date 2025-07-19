@@ -1,0 +1,53 @@
+name: Build and Deploy to Netlify
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        fetch-depth: 0
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extended: true
+
+    - name: Build Hugo site
+      run: |
+        # Use mise to run Hugo if available, fallback to direct Hugo
+        if command -v mise &> /dev/null; then
+          mise x hugo -- hugo --minify
+        else
+          hugo --minify
+        fi
+
+    - name: Deploy to Netlify
+      uses: nwtgck/actions-netlify@v3
+      with:
+        publish-dir: './public'
+        production-branch: main
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        deploy-message: "Deploy from GitHub Actions"
+        enable-pull-request-comment: false
+        enable-commit-comment: true
+        overwrites-pull-request-comment: true
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+
+    - name: Hugo Build Info
+      run: |
+        echo "Hugo build completed successfully!"
+        echo "Generated $(find public -name "*.html" | wc -l) HTML files"
+        echo "Site size: $(du -sh public | cut -f1)"
