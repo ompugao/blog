@@ -12,7 +12,7 @@ draft = false
 
 <body>
 <p>つづき。
-<a href="{{% ref path="/posts/2021/continued-struggle-with-eye-strain/\"%}}">Related post: 眼精疲労がつらい</a></p>
+<a href="{{% ref path=\"/posts/2021/continued-struggle-with-eye-strain/\"%}}">Related post: 眼精疲労がつらい</a></p>
 
 <p>頭痛が続くので、日本人のお医者さんのところに行ってきた。
 眼を診察してもらって、視力検査をしてもらって、薬を処方してもらった。
