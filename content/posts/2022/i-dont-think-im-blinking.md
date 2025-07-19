@@ -1,0 +1,38 @@
++++
+Categories = ["tech"]
+Description = " ドライアイや眼精疲労、頭痛がひどくツールとか色々作ってきたけど、あんまり改善しない。ompugao.hatenablog.com思い当たる理由は以下の2点：   姿勢がわるい  まばたきがまばたきになってない   姿勢は以前から気になって"
+Tags = []
+date = "2022-12-06T23:31:00+09:00"
+title = "僕、まばたきできてない気がする"
+url = "/posts/2022/i-dont-think-im-blinking/"
+author = "ompugao"
+archive = ["2022"]
+draft = false
++++
+
+<body>
+<p>ドライアイや眼精疲労、頭痛がひどくツールとか色々作ってきたけど、あんまり改善しない。
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2022%2F09%2F23%2F005216" title="まばたきを促すアプリを作った - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2022/09/23/005216">ompugao.hatenablog.com</a></cite>
+思い当たる理由は以下の2点：</p>
+
+<ol>
+<li>姿勢がわるい</li>
+<li>まばたきがまばたきになってない</li>
+</ol>
+
+
+<p>姿勢は以前から気になっていて、座っているときにお尻がずり下がった状態になってたり腰が曲がっているので
+これは背筋をトレーニングして改善していきたいんだけど、腱鞘炎でちょっと難しい。</p>
+
+<p>↓理学療法士さんにおすすめされてこの本は買った。読みもした。一つ目のトレーニングもやった。それ以降やってないけど…</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25BA%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25BB%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0-%25E5%259C%25A7%25E5%2580%2592%25E7%259A%2584%25E3%2581%25AA%25E5%25BC%25B7%25E3%2581%2595%25E3%2582%2592%25E6%2589%258B%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E7%25A9%25B6%25E6%25A5%25B5%25E3%2581%25AE%25E8%2587%25AA%25E9%2587%258D%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC-%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%25BB%25E3%2582%25A6%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2589-ebook%2Fdp%2FB0746H85JW%2Fref%3Dsr_1_1%3Fkeywords%3D%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25BA%25E3%2583%258A%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%26qid%3D1670336602%26sprefix%3D%25E3%2581%25B7%25E3%2582%258A%25E3%2581%259A%25E3%2581%25AA%25E3%2583%25BC%252Caps%252C446%26sr%3D8-1" title="プリズナー・トレーニング 圧倒的な強さを手に入れる究極の自重筋トレ | ポール・ウエイド, 山田 雅久 | スポーツ | Kindleストア | Amazon" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.amazon.co.jp/%E3%83%97%E3%83%AA%E3%82%BA%E3%83%8A%E3%83%BC%E3%83%BB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E5%9C%A7%E5%80%92%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%95%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%8B%E7%A9%B6%E6%A5%B5%E3%81%AE%E8%87%AA%E9%87%8D%E7%AD%8B%E3%83%88%E3%83%AC-%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A8%E3%82%A4%E3%83%89-ebook/dp/B0746H85JW/ref=sr_1_1?keywords=%E3%83%97%E3%83%AA%E3%82%BA%E3%83%8A%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0&amp;qid=1670336602&amp;sprefix=%E3%81%B7%E3%82%8A%E3%81%9A%E3%81%AA%E3%83%BC%2Caps%2C446&amp;sr=8-1">www.amazon.co.jp</a></cite></p>
+
+<p>まばたきできてない、というのは今日気づいた。
+まばたきした時に上まぶたが下まで下がってはいるんだけど、すぐに持ち上げるせいで、目の筋肉が緊張したままになっている。</p>
+
+<p>まばたきする時に少し長めに閉じるというのをやってみようと思う。
+どうせタイピング中に画面を見続ける必要はないので、特に文章のタイピング中は目を閉じることを心掛けようと思う。</p>
+
+<p>姿勢がわるかったり画面を凝視してたら肩たたいて教えてください。</p>
+</body>
