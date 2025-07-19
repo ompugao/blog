@@ -14,7 +14,7 @@ draft = false
 <p>もはや健康観察日記である。</p>
 
 <p>先日の件からずっとのどが痛いので、4/19にSingapore General Hospitalの耳鼻咽喉科に行った。
-<a href="{{% ref path="/posts/2021/sore-throat-wont-go-away/\"%}}">Related post: 喉がずっと痛い</a></p>
+<a href="{{% ref path=\"/posts/2021/sore-throat-wont-go-away/\"%}}">Related post: 喉がずっと痛い</a></p>
 
 <p>そしたら胃カメラで鼻とのどを診てもらい、まぁLPR(咽喉頭酸逆流症)じゃろ、ということでオメプラゾール20mgを1日2回飲むように、とのこと。多くない？</p>
 
