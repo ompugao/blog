@@ -12,7 +12,7 @@ draft = false
 
 <body>
 <p>今日はResearchatLT。前回からもう1年経ってしまった。年々時が過ぎるのが速くなっていく。
-前回→<a href="https://ompugao.hatenablog.com/entry/2020/12/26/220635">2020/12/26 シンガポール渡航7日目 - おんぷの日記</a></p>
+前回→<a href="/posts/2021/2020-12-27-day-8-in-singapore/">2020/12/26 シンガポール渡航7日目 - おんぷの日記</a></p>
 
 <p>今回のアーカイブはこちら：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8st6KoYsnP0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="ResearchatLT vol.2"></iframe><cite class="hatena-citation"><a href="https://www.youtube.com/watch?v=8st6KoYsnP0">www.youtube.com</a></cite></p>

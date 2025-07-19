@@ -15,7 +15,7 @@ draft = false
 <code>Authenticaiton Required: An application wants access to the keyring "Default Keyring", but it is locked.</code>
 というポップアップが毎回出てくる。</p>
 
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2021%2F04%2F14%2F112236" title="git-credential-gnome-keyringを捨てよ、git-credential-libsecretと旅に出よう - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2021/04/14/112236">ompugao.hatenablog.com</a></cite></p>
+<p><a href="{{% ref path="/posts/2021/ditch-gnome-keyring-use-libsecret/\"%}}">Related post: git-credential-gnome-keyringを捨てよ、git-credential-libsecretと旅に出よう</a></p>
 
 <p><code>~/.local/share/keyrings</code>ディレクトリが消えていたせいっぽい。</p>
 

@@ -14,7 +14,7 @@ draft = false
 <p>もはや健康観察日記である。</p>
 
 <p>先日の件からずっとのどが痛いので、4/19にSingapore General Hospitalの耳鼻咽喉科に行った。
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2021%2F03%2F13%2F150522" title="喉がずっと痛い - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2021/03/13/150522">ompugao.hatenablog.com</a></cite></p>
+<a href="{{% ref path="/posts/2021/sore-throat-wont-go-away/\"%}}">Related post: 喉がずっと痛い</a></p>
 
 <p>そしたら胃カメラで鼻とのどを診てもらい、まぁLPR(咽喉頭酸逆流症)じゃろ、ということでオメプラゾール20mgを1日2回飲むように、とのこと。多くない？</p>
 

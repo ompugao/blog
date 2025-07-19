@@ -13,7 +13,7 @@ draft = false
 <body>
 <p>以前から足首の筋が痛くて歩けない等と言っていたら、</p>
 
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2021%2F11%2F15%2F135147" title="右足首がいたい - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2021/11/15/135147">ompugao.hatenablog.com</a></cite></p>
+<p><a href="{{% ref path="/posts/2021/right-ankle-hurts/\"%}}">Related post: 右足首がいたい</a></p>
 
 <p>今度は膝が痛くて通勤すらつらいになった。
 正確には両膝の内側。</p>

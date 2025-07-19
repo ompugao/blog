@@ -12,7 +12,7 @@ draft = false
 
 <body>
 <p>ドライアイや眼精疲労、頭痛がひどくツールとか色々作ってきたけど、あんまり改善しない。
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2022%2F09%2F23%2F005216" title="まばたきを促すアプリを作った - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2022/09/23/005216">ompugao.hatenablog.com</a></cite>
+<a href="{{% ref path="/posts/2022/made-a-blinking-reminder-app/\"%}}">Related post: まばたきを促すアプリを作った</a>
 思い当たる理由は以下の2点：</p>
 
 <ol>

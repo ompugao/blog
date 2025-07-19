@@ -12,7 +12,7 @@ draft = false
 
 <body>
 <p>購入した新しいPC(Asus ROG Zephyrus G14 GA401)が届いたのでセットアップした。
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2021%2F02%2F28%2F011049" title="新しいパソコンをポチった - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2021/02/28/011049">ompugao.hatenablog.com</a></cite></p>
+<a href="{{% ref path="/posts/2021/bought-a-new-computer/\"%}}">Related post: 新しいパソコンをポチった</a></p>
 
 <p>購入後に新モデルのリリース時期が発表されて(4月末発売開始)少しぐんにょりしたものの、ラップトップは新しすぎるとlinuxを入れるのに苦労するので、まぁよかろうと思い直した。
 あーでもRTX20XXよりRTX30XXのがいいよなー（ﾌﾞﾂﾌﾞﾂ

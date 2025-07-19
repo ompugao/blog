@@ -13,7 +13,7 @@ draft = false
 <body>
 <p>前回以降、眼精疲労が完治せず、手持ちの処方薬がなくなってしまうので、
 4/13に病院を訪ねた。
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fompugao.hatenablog.com%2Fentry%2F2021%2F03%2F27%2F200007" title="眼精疲労がつらい - おんぷの日記" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://ompugao.hatenablog.com/entry/2021/03/27/200007">ompugao.hatenablog.com</a></cite></p>
+<a href="{{% ref path="/posts/2021/eye-strain-is-tough/\"%}}">Related post: 眼精疲労がつらい</a></p>
 
 <p>学校の大きめの医務室みたいな病院なので眼科に行ったわけではないが、
 こんな処方薬(ミオピン点眼薬)を使ってます、と伝えると、なんでこんな目薬使ってるの？抗生物質入ってるよ？と言われて、僕に言われても…処方されて使ってるだけだし…となった。</p>
