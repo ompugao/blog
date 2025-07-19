@@ -1,6 +1,6 @@
 +++
 Categories = ["tech"]
-Description = " もはや健康観察日記である。  先日の件からずっとのどが痛いので、4/19にSingapore General Hospitalの耳鼻咽喉科に行った。ompugao.hatenablog.com  そしたら胃カメラで鼻とのどを診てもらい、ま"
+Description = " もはや健康観察日記である。  先日の件からずっとのどが痛いので、4/19にSingapore General Hospitalの耳鼻咽喉科に行った。 そしたら胃カメラで鼻とのどを診てもらい、ま"
 Tags = []
 date = "2021-06-08T16:13:00+09:00"
 title = "今度は胃がいたい"

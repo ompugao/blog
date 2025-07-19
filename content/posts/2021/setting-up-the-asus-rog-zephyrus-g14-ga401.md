@@ -1,6 +1,6 @@
 +++
 Categories = ["tech"]
-Description = " 購入した新しいPC(Asus ROG Zephyrus G14 GA401)が届いたのでセットアップした。ompugao.hatenablog.com  購入後に新モデルのリリース時期が発表されて(4月末発売開始)少しぐんにょりしたものの"
+Description = " 購入した新しいPC(Asus ROG Zephyrus G14 GA401)が届いたのでセットアップした。購入後に新モデルのリリース時期が発表されて(4月末発売開始)少しぐんにょりしたものの"
 Tags = []
 date = "2021-03-11T16:21:00+09:00"
 title = "Asus ROG Zephyrus G14 GA401のセットアップ"
