@@ -132,7 +132,8 @@ draft = false
 <li>無論、辛くてだれかに相談するときにはニコニコしなくていい。</li>
 </ul>
 </li>
-<li>ref: <a href="https://ompugao.hatenablog.com/entry/2023/05/24/154119">めっちゃ褒めてくれる</a>
+<li>
+ref: <a href="{{% ref path=\"/posts/2023/got-lots-of-praise\" %}}">めっちゃ褒めてくれる</a>
 </li>
 </ul>
 
