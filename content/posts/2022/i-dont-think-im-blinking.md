@@ -12,7 +12,7 @@ draft = false
 
 <body>
 <p>ドライアイや眼精疲労、頭痛がひどくツールとか色々作ってきたけど、あんまり改善しない。
-<a href="{{% ref path="/posts/2022/made-a-blinking-reminder-app/\"%}}">Related post: まばたきを促すアプリを作った</a>
+<a href="{{% ref path=\"/posts/2022/made-a-blinking-reminder-app/\"%}}">Related post: まばたきを促すアプリを作った</a>
 思い当たる理由は以下の2点：</p>
 
 <ol>

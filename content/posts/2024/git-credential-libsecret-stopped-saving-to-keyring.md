@@ -15,7 +15,7 @@ draft = false
 <code>Authenticaiton Required: An application wants access to the keyring "Default Keyring", but it is locked.</code>
 というポップアップが毎回出てくる。</p>
 
-<p><a href="{{% ref path="/posts/2021/ditch-gnome-keyring-use-libsecret/\"%}}">Related post: git-credential-gnome-keyringを捨てよ、git-credential-libsecretと旅に出よう</a></p>
+<p><a href="{{% ref path=\"/posts/2021/ditch-gnome-keyring-use-libsecret/\"%}}">Related post: git-credential-gnome-keyringを捨てよ、git-credential-libsecretと旅に出よう</a></p>
 
 <p><code>~/.local/share/keyrings</code>ディレクトリが消えていたせいっぽい。</p>
 

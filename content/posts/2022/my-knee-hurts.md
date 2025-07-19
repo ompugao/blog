@@ -13,7 +13,7 @@ draft = false
 <body>
 <p>以前から足首の筋が痛くて歩けない等と言っていたら、</p>
 
-<p><a href="{{% ref path="/posts/2021/right-ankle-hurts/\"%}}">Related post: 右足首がいたい</a></p>
+<p><a href="{{% ref path=\"/posts/2021/right-ankle-hurts/\"%}}">Related post: 右足首がいたい</a></p>
 
 <p>今度は膝が痛くて通勤すらつらいになった。
 正確には両膝の内側。</p>

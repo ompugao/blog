@@ -12,7 +12,7 @@ draft = false
 
 <body>
 <p>購入した新しいPC(Asus ROG Zephyrus G14 GA401)が届いたのでセットアップした。
-<a href="{{% ref path="/posts/2021/bought-a-new-computer/\"%}}">Related post: 新しいパソコンをポチった</a></p>
+<a href="{{% ref path=\"/posts/2021/bought-a-new-computer/\"%}}">Related post: 新しいパソコンをポチった</a></p>
 
 <p>購入後に新モデルのリリース時期が発表されて(4月末発売開始)少しぐんにょりしたものの、ラップトップは新しすぎるとlinuxを入れるのに苦労するので、まぁよかろうと思い直した。
 あーでもRTX20XXよりRTX30XXのがいいよなー（ﾌﾞﾂﾌﾞﾂ

@@ -13,5 +13,5 @@ draft = false
 <body>
 <p>wezterm、作業してるとだんだん遅くなるのなんで？</p>
 
-<p><a href="{{% ref path="/posts/2022/switched-from-alacritty-to-kitty-to-wezterm/\"%}}">Related post: alacrittyからkittyを経由してweztermに移行した</a></p>
+<p><a href="{{% ref path=\"/posts/2022/switched-from-alacritty-to-kitty-to-wezterm/\"%}}">Related post: alacrittyからkittyを経由してweztermに移行した</a></p>
 </body>
