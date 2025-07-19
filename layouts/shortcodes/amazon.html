@@ -1,0 +1,18 @@
+{{- $asin := .Get "asin" -}}
+{{- $title := .Get "title" -}}
+<div class="amazon-widget">
+  <a href="https://www.amazon.co.jp/gp/product/{{ $asin }}"></a>
+  <div class="amazon-widget-img">
+    <img src="http://images.amazon.com/images/P/{{ $asin }}.09_SL110_.jpg" />
+  </div>
+  
+  <div class="amazon-widget-info">
+    <span class="amazon-widget-title">
+      {{ $title }}
+    </span>
+    <span class="amazon-widget-via">
+      <img src="https://www.amazon.co.jp/favicon.ico" />
+      amazon.co.jp
+    </span>
+  </div>
+</div>
