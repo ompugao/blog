@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " Ubuntu 24.04 にアップグレードしたから、句読点の位置が変だなぁとずっと思っていた：  https://github.com/canonical/Ubuntu-Sans-fonts/issues/117#issuecomment"
-Tags = []
 date = "2025-02-17T17:08:00+09:00"
 title = "Ubuntuで日本語の句読点の位置が中心あたりに表示される"
 url = "/posts/2025/japanese-punctuation-appears-in-the-center-on-ubuntu/"

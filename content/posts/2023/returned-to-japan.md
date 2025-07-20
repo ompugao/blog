@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " しっかり風邪をひいた  それもしぶといやつ  歳とると治らんのよ… "
-Tags = []
 date = "2023-08-13T11:49:00+09:00"
 title = "帰国したよ"
 url = "/posts/2023/returned-to-japan/"

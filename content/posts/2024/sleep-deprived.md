@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " 寝不足だと頭が動かないし体も思いしやる気もでない  ロクなことがない。健康がだいじ "
-Tags = []
 date = "2024-04-01T11:45:00+09:00"
 title = "寝不足"
 url = "/posts/2024/sleep-deprived/"

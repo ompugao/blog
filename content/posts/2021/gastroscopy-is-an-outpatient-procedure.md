@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " ここ3ヶ月くらい胃の調子がダメで食事がちゃんと摂れず、さすがに胃がんとかだと困るので8/5に胃カメラで胃をみてもらった。日本のようにカメラを入れて苦しむやつかと思ったら、こちらでは手術扱いらしく、麻酔をして診てもらうらしい。  8/2に一"
-Tags = []
 date = "2021-08-06T11:57:00+09:00"
 title = "胃カメラは日帰り手術"
 url = "/posts/2021/gastroscopy-is-an-outpatient-procedure/"

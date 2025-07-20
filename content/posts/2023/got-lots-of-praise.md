@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research"]
 Description = " 先生とミーティングをした。育休中なのに日本語の勉強をしてたりしてすごい。かなり流暢になってる。  論文を送ってざっと見てもらうと、めっちゃ褒めてくれる。very nice... very good... very cool...と呟きなが"
-Tags = []
 date = "2023-05-24T15:41:00+09:00"
 title = "めっちゃ褒めてくれる"
 url = "/posts/2023/got-lots-of-praise/"

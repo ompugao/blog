@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " git credentialにgit-credential-gnome-keyringを使うのは推奨されていない。なぜならlibgnome-keyringがdeprecatedのため。実際ubuntu20.04ではgit-credenti"
-Tags = []
 date = "2021-04-14T11:22:00+09:00"
 title = "git-credential-gnome-keyringを捨てよ、git-credential-libsecretと旅に出よう"
 url = "/posts/2021/ditch-gnome-keyring-use-libsecret/"

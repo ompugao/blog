@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " 以下の理由でbitwardenを使い始めた   androidのchromeで広告が鬱陶しすぎるので、brave browserを使いたい  googleのパスワードマネージャーとkeepassで二重管理するのをやめたい   chromi"
-Tags = []
 date = "2022-10-10T15:07:00+09:00"
 title = "bitwardenに移行した"
 url = "/posts/2022/migrated-to-bitwarden/"

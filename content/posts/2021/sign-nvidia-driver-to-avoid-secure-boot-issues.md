@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " 目下windows10とubuntu20.04のデュアルブートのマシンを主に使用している。windows 11にupgradeするのにsecure boot関係でコケたら嫌だなぁと思って、キチンとsecure bootを有効にした。以下は"
-Tags = []
 date = "2021-11-14T15:58:00+09:00"
 title = "kernel module(nvidia driver)に署名してsecure bootで困らないようにする"
 url = "/posts/2021/sign-nvidia-driver-to-avoid-secure-boot-issues/"

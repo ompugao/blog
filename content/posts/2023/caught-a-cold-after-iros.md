@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research", "health"]
 Description = " IROSはとても楽しかった。やっぱり自分の研究に興味をもって話しかけてくれるのは嬉しい。  で日本に帰ってきたらくしゃみが止まらん。5秒に1回はくしゃみしてる。日本は急に寒くなりすぎる。 "
-Tags = []
 date = "2023-10-09T10:17:00+09:00"
 title = "IROSに行って帰ってきたら風邪ひいたみたい"
 url = "/posts/2023/caught-a-cold-after-iros/"

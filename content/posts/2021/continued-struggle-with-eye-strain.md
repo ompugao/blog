@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["heatlh"]
 Description = " 前回以降、眼精疲労が完治せず、手持ちの処方薬がなくなってしまうので、4/13に病院を訪ねた。学校の大きめの医務室みたいな病院なので眼科に行ったわけではないが、こんな処方薬(ミオピン点眼薬)を"
-Tags = []
 date = "2021-04-17T14:15:00+09:00"
 title = "続、眼精疲労がつらい"
 url = "/posts/2021/continued-struggle-with-eye-strain/"

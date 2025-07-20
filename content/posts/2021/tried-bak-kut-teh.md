@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["cooking"]
 Description = " 外食禁止令が出ているので、テイクアウトで注文してみた。  注文したのはSong Fa Bah Kut Tehなるお店↓。songfa.com.sg  肉しか入ってない汁に8ドルも出すの…？と思ったけどモノは試し。ついでに炒め野菜も注文した"
-Tags = []
 date = "2021-06-16T21:38:00+09:00"
 title = "肉骨茶（バクテー）を食べてみた"
 url = "/posts/2021/tried-bak-kut-teh/"

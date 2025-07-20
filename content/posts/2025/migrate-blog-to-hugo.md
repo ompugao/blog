@@ -1,5 +1,5 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " 以下の理由でhugoに移行した：… "
 date = '2025-07-19T21:31:25+09:00'
 draft = false

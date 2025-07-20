@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["singapore"]
 Description = " 至極当たり前だけれど…  赤道直下だと、日本の夏季には北から、冬季には南から日が差す。なので今の南向きの部屋は夏場は眩しくない。うれしい。  でも西日はがっつり入る。まぶしい。 "
-Tags = []
 date = "2021-07-29T18:36:00+09:00"
 title = "日の差す方向"
 url = "/posts/2021/direction-of-sunlight/"

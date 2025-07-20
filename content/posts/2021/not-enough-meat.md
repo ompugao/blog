@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health", "cooking", "singapore"]
 Description = " 頬が痩けてきた。明らかに体に肉が足りていない。  ということでGoogle Mapsでせっせとお肉を検索して、自宅近くのステーキ屋さんに行ってきた。非常によくて、そこそこの値段ががっつりお肉が食べられるのでこれは通うことになりそう。  2"
-Tags = []
 date = "2021-03-17T19:11:00+09:00"
 title = "おにくが足りない"
 url = "/posts/2021/not-enough-meat/"

@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " 9/8から非常に倦怠感がつよい。  なんでかなーと思っていたけれど、ふと、  IROSの発表動画の録画でのどを使う→Bスポット療法でがっつり擦過される→体調不良  なのではないかと気づいた。けわぴ… "
-Tags = []
 date = "2023-09-11T08:33:00+09:00"
 title = "倦怠感がひどい"
 url = "/posts/2023/terrible-fatigue/"

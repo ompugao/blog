@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["podcast"]
 Description = " 147. Can't Imagine How Big Is That | Researchat.fm   シンガポールだと、東南アジア(タイ・ベトナム・インドネシアあたり)の人たちの氏名がちっとも覚えられない  めっちゃ子音が続いて推測す"
-Tags = []
 date = "2022-10-02T12:02:00+09:00"
 title = "Researchat.fm #147感想"
 url = "/posts/2022/thoughts-on-researchatfm-147/"

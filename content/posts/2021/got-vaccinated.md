@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health", "singapore"]
 Description = " 選ぶのはもちろん、人類最高の叡智の結晶、pfizer製mRNAワクチン。わくわく。  お昼頃にてくてくと歩いて会場に向かうと薄暗い入り口にたどり着いた。特に行列等はなかったので、歩いていたおばあちゃんにワクチンのとこどこかわかりますか？と"
-Tags = []
 date = "2021-06-24T11:21:00+09:00"
 title = "ワクチンを打ってもらった"
 url = "/posts/2021/got-vaccinated/"

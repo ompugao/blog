@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " vimでscrapboxっぽいフォーマットでメモをとりたくて、以前pythonでlsp serverを実装していた:   ただ、やはりpythonで実装するとパースが遅すぎてだんだん使い辛くな"
-Tags = []
 date = "2025-01-16T20:10:00+09:00"
 title = "Vimでscrapboxのようにメモを取りたいので、RustでLSPサーバを書いている"
 url = "/posts/2025/writing-an-lsp-server-in-rust-to-take-notes-like-scrapbox-in-vim/"

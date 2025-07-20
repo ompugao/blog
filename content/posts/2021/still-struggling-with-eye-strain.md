@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " つづき。頭痛が続くので、日本人のお医者さんのところに行ってきた。眼を診察してもらって、視力検査をしてもらって、薬を処方してもらった。薬は日本でよくもらえるジクアスとサンコバ点眼液を4本ずつ。"
-Tags = []
 date = "2021-05-23T15:27:00+09:00"
 title = "続続、眼精疲労がつらい"
 url = "/posts/2021/still-struggling-with-eye-strain/"

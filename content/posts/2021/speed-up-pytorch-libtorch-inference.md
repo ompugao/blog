@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research"]
 Description = " 色々と試行錯誤した記憶が薄れてきているので、忘れないうちに書き留めておく。ここでのpytorch/libtorchのversionは1.8.1。推論にはlibtorchを使うものとする。  1. TorchScriptを使わない  pyt"
-Tags = []
 date = "2021-10-23T18:35:00+09:00"
 title = "pytorch/libtorchの推論の高速化テク"
 url = "/posts/2021/speed-up-pytorch-libtorch-inference/"

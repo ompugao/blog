@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " 論文を書くためのLaTeX環境は、vscode+latex workshop+dockerで整備している。いつものようにwindowsでwsl2をbackendにするdockerを起動しようとしたら、なぜか起動しない。なんでやと思ってws"
-Tags = []
 date = "2022-02-19T00:47:00+09:00"
 title = "wslが起動しなくなった"
 url = "/posts/2022/wsl-wont-start/"

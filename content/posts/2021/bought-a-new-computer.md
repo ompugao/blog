@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research", "gadget"]
 Description = " ラボから借りているPCのディスクが小さすぎて(ubuntuに130GBくらい)、すぐにdisk fullになってしまい何をするにもやりづらいので新しいパソコンを購入した。  ラップトップと据え置きで迷ったものの、持ち歩ける方がロボ屋として"
-Tags = []
 date = "2021-02-28T01:10:00+09:00"
 title = "新しいパソコンをポチった"
 url = "/posts/2021/bought-a-new-computer/"

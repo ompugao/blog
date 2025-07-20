@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health", "research"]
 Description = " 体調が戻ってきたというのが一番の理由だと思うけど、以下の小町先生のエントリーで、komachi.hatenablog.com  岡野原さんでもモチベーションがやられることがあるんだと知れて、だいぶ気が楽になったというのも理由の一つ。   "
-Tags = []
 date = "2023-01-13T13:49:00+09:00"
 title = "モチベが戻ってきた"
 url = "/posts/2023/got-my-motivation-back/"

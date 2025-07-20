@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research"]
 Description = " 昨日期末試験がやっとこさ終わった。いい機会なので取った講義をまとめておく。どこにも需要はないだろうけど…  2020-21 Sem. 1  コロナの関係で渡航できなかったため、完全オンラインの講義のみ受講*1。  DM6190 Speci"
-Tags = []
 date = "2021-05-06T11:15:00+09:00"
 title = "NTUの博士課程前半で受講した講義のまとめ"
 url = "/posts/2021/summary-of-courses-taken-in-the-first-half-of-ntu-phd/"

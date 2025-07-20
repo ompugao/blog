@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " 突然winキーを押しても認識されなくなって、xevで眺めても何も反応がない。なんで!?となった。  これだった↓  askubuntu.com  ROG Zephyrus G14ではFn+superでsuperがロックされるらしい。もう一"
-Tags = []
 date = "2022-09-30T00:04:00+09:00"
 title = "windowsキーが認識されなくなった"
 url = "/posts/2022/windows-key-stopped-working/"

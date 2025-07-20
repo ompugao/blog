@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["gadget"]
 Description = " オフィスにはデスクトップPCに付属する安いマウスしかなく、クリックやスクロールするたびに指にダメージを感じるので新しいのをポチった。  結局、割と最近発表されたLogiのLiftにした。     ロジクール ワイヤレス 縦型 静音 エルゴ"
-Tags = []
 date = "2022-06-19T17:09:00+09:00"
 title = "マウスをポチった"
 url = "/posts/2022/bought-a-mouse/"

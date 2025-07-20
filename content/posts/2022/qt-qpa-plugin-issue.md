@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " たまに発生するエラーの直し方のメモ。  どういう条件で発生するのかよく調べていないけれど、opencvとpyqt5(たぶん)を混ぜたときにplt.imshow()しようとしたりするとタイトルのエラーが出る。  こういう時はタイトルの\".."
-Tags = []
 date = "2022-01-20T17:35:00+09:00"
 title = "qt.qpa.plugin"
 url = "/posts/2022/qt-qpa-plugin-issue/"

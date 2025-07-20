@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["podcast", "singapore"]
 Description = " 腰が治った。やったぜ。  今日はResearchatLTを見ていた。Researchat.fmというpodcastがあり、今回はpodcastのリスナー達各々が5分で様々な話をLightning Talkで話すという新企画である。青森県立"
-Tags = []
 date = "2020-12-26T22:06:00+09:00"
 title = "2020/12/26 シンガポール渡航7日目"
 url = "/posts/2020/2020-12-26-day-7-in-singapore/"

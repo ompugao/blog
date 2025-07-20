@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research"]
 Description = " 僕自身が(主観・客観的に)すごい結果を出せたわけではないので、話半分で聞いてください。  信頼できる指導教官を探そう   指導教官は研究技術の指導だけではなく、研究活動全てについて相談に乗ってくれます。  定期的に相談しましょう。話せる関"
-Tags = []
 date = "2025-01-18T08:37:00+09:00"
 title = "博士課程のふりかえり・学び"
 url = "/posts/2025/reflections-and-learnings-from-the-phd/"

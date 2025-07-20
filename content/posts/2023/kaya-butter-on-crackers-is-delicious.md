@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["cooking"]
 Description = " シンガポーリアンの朝食らしい。糖質と塩分と脂質なのでうまい。 "
-Tags = []
 date = "2023-07-15T20:57:00+09:00"
 title = "クラッカーにカヤバターを塗って食べるとうまい"
 url = "/posts/2023/kaya-butter-on-crackers-is-delicious/"

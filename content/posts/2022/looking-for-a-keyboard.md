@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health", "gadget"]
 Description = " 腱鞘炎がなかなか治らなくてキーを叩くのが手首にくるので、キーボードが欲しくなってきた。thinkpad keyboardユーザーなので無線・分割・赤ポチキーボードがいいのだけど、そんなものはない。メカニカルキーボードは使ってきていないので"
-Tags = []
 date = "2022-04-13T17:18:00+09:00"
 title = "キーボードを物色中"
 url = "/posts/2022/looking-for-a-keyboard/"

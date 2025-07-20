@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " pythonでopencvを使っていると以下のエラーでGUIが使えなかった。適当にググるとcondaを使え、などと書いてある。condaは使いたくない。   error: (-2:Unspecified error) The functi"
-Tags = []
 date = "2022-05-14T18:04:00+09:00"
 title = "opencvのGUIが起動できない"
 url = "/posts/2022/opencv-gui-wont-launch/"

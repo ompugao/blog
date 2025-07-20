@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health", "singapore"]
 Description = " なぜか予約が早められるようになったため、7/15に打ってきた。  接種直後は前回のように頭痛が出ることもなく平和な感じ。3時間くらいしたら腕が痛くなってきたけど、1回目よりマシだったので、お、これは意外となんともなく終わるかな、と思いなが"
-Tags = []
 date = "2021-07-21T19:19:00+09:00"
 title = "ワクチンの2nd shotだん"
 url = "/posts/2021/got-the-2nd-vaccine-shot/"

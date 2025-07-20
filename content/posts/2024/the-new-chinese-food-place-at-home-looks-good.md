@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["cooking"]
 Description = " この時事を見て本を買った  blog.kushii.net  早速里芋の葱油炒めをつくった  味付けは塩だけなのに、おいしい。里芋800gの処理は大変だったけど、注意書き通り「たっぷり作る」のが正解。 "
-Tags = []
 date = "2024-11-10T18:42:00+09:00"
 title = "あたらしい家中華がよさそう"
 url = "/posts/2024/the-new-chinese-food-place-at-home-looks-good/"

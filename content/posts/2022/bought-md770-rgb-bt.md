@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["gadget", "health"]
 Description = " 試し打ちできないので、悩みに悩んでBarocco MD770 RGB BTを購入した。とてもいい感じ。一番の目的である腱鞘炎対策にはなりそう。  以下ｳｰﾝと思ったこと:   レイヤー移動・マクロは想定通りめんどくさい。  Fnが打ちづら"
-Tags = []
 date = "2022-04-23T15:35:00+09:00"
 title = "MD770 RGB BTを買った"
 url = "/posts/2022/bought-md770-rgb-bt/"

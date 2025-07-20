@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " scrapboxみたいなwikiを好きなエディタ(vim)で編集したい。そこでLanguage Serverとして作った。  github.com  こんな感じ(ちょっと長めの動画。2倍速でどうぞ):    syntax  scrapbo"
-Tags = []
 date = "2022-11-26T00:00:00+09:00"
 title = "Language Serverの仕組みに乗っかればscrapboxっぽいwikiをvimで実現できる"
 url = "/posts/2022/build-scrapbox-like-wiki-in-vim-using-lsp/"

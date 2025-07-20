@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["singapore"]
 Description = " 聞くところによると、シンガポールは世界でも一位二位を誇るデジタル化が進んだ国、ということらしい。確かに様々なサービスがウェブ上で申請できるし、人々は個人のwhatsappアカウントで仕事をする。病院の予約や企業の営業の人等はビジネス向けの"
-Tags = []
 date = "2021-04-02T00:30:00+09:00"
 title = "すぐに電話をかけてくるのやめてほしいけど、これがグローバル社会での働き方なのかもしれない"
 url = "/posts/2021/hate-sudden-calls-maybe-this-is-global-work-life/"

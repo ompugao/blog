@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " これまでキーボードを試しては首を捻ってきたのだけれど、ようやく答えを得た。Realforce R3S 30g。これでもう腱鞘炎に悩まなくて済む…本当に楽…  ↓これまでの失敗"
-Tags = []
 date = "2023-09-26T17:51:00+09:00"
 title = "Realforceを使っているよ"
 url = "/posts/2023/using-a-realforce-keyboard/"

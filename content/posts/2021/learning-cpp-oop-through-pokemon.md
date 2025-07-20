@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " 以前妻にc++のクラスの使い方を教えたときに、ブログ記事にしたらいいのに、と言われたので公開しておく。  対象者：intとかdoubleの変数やその配列を扱え、関数を作ったり使ったりできる。ポインタも一応わかる。でもclassの使い方がわ"
-Tags = []
 date = "2021-03-01T23:07:00+09:00"
 title = "ポケモンで学ぶC++オブジェクト指向入門"
 url = "/posts/2021/learning-cpp-oop-through-pokemon/"

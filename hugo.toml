@@ -94,13 +94,18 @@ name = "Github"
 icon = "github"
 url = "https://github.com/ompugao"
 
+# [[params.social]]
+# name = "Twitter"
+# icon = "twitter"
+# url = "https://x.com/ompugao"
+
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/ompugao"
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/shohei-fujii/"
 
 # Enable tags.
-# [taxonomies]
-#    tag = "tags"
+[taxonomies]
+   tag = "tags"
 
 

@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " 論文提出の追い上げで体調を崩したのか、それとも燃え尽きたのか、体がだるくねむいためにあんまり考えられない。次のテーマをさくっと決めてしまいたいのだが。 "
-Tags = []
 date = "2023-03-06T21:17:00+09:00"
 title = "だるい"
 url = "/posts/2023/feeling-sluggish/"

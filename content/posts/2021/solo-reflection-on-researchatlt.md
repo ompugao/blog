@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["podcast"]
 Description = " 今日はResearchatLT。前回からもう1年経ってしまった。年々時が過ぎるのが速くなっていく。前回→2020/12/26 シンガポール渡航7日目 - おんぷの日記  今回のアーカイブはこちら：www.youtube.com  みなさん"
-Tags = []
 date = "2021-12-18T23:17:00+09:00"
 title = "ResearchatLTひとり反省会"
 url = "/posts/2021/solo-reflection-on-researchatlt/"

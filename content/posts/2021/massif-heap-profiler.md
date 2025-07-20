@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " massifはvalgrindに同梱の、プログラムがメモリヒープをどれくらい使っているかをプロファイリングしてくれるもの（情報が無）。  インストールをして：  sudo apt install valgrind massif-visua"
-Tags = []
 date = "2021-03-13T21:07:00+09:00"
 title = "massifヒーププロファイラ"
 url = "/posts/2021/massif-heap-profiler/"

@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["podcast"]
 Description = " researchat.fm  人の生きてきた過程を聞くの楽しいね。   Biobotも下水疫学も初耳。おもろい。   ざっとウェブサイトを眺めた感じだと、話にあったprotocol開発とデータアナリシスが本業っぽい？   下水のサンプルは"
-Tags = []
 date = "2022-08-05T00:37:00+09:00"
 title = "Researchat.fm #145 ざっと感想"
 url = "/posts/2022/quick-thoughts-on-researchatfm-145/"

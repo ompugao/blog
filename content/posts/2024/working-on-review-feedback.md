@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research"]
 Description = " とても読み始めるのが精神的につらかった  読んでみたらレビュアーのみなさんから概ね優しいコメントを頂いていてちょっとほっとした  指摘はとても鋭くてさすが先生…となった  実機実験は…つらぽよ… "
-Tags = []
 date = "2024-01-12T09:17:00+09:00"
 title = "レビュー対応をしている"
 url = "/posts/2024/working-on-review-feedback/"

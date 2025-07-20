@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health", "podcast"]
 Description = " 眼が疲れてしまったせいで何もできず、雨の日の外の景色を眺めながらpodcastを聴いている。  Researchat.fmエピソード87の\"スケールしないことをする\"という話はかなり衝撃だった。FoundXの事例で紹介されている事例集の一"
-Tags = []
 date = "2020-12-27T20:42:00+09:00"
 title = "2020/12/27 シンガポール渡航8日目"
 url = "/posts/2020/2020-12-27-day-8-in-singapore/"

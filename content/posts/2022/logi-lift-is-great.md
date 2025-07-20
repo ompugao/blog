@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["gadget"]
 Description = " こないだLogiのLiftなるマウスを買ったわけなんですが、買ってよかった。 いいところ：   手首が圧倒的に楽。普通のマウスがしんどい。  クリック音が小さい。(ｶﾁ...)くらい。  sm"
-Tags = []
 date = "2022-06-29T18:18:00+09:00"
 title = "LogiのLiftはいいぞ"
 url = "/posts/2022/logi-lift-is-great/"

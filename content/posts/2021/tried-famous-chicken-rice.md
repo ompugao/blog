@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["cooking"]
 Description = " 夕飯に食べたMandarin Orchardにあるchatterboxのチキンライス。だいたい2600円程度。3種類のソースがついてきた  確かに美味しいけど、これだけ払う価値があるかどうかは…？ "
-Tags = []
 date = "2021-01-07T20:53:00+09:00"
 title = "一番有名らしい？お高めのチキンライス"
 url = "/posts/2021/tried-famous-chicken-rice/"

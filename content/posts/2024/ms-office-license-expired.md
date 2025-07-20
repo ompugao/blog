@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " MS Office買い切りライセンスなのにライセンスが切れて、サインインするとError code: 29と出てエラーになる。  Winキーを押してApp &amp; featuresからMicrosoft Office 365を選択、ア"
-Tags = []
 date = "2024-02-17T13:51:00+09:00"
 title = "買い切り版MS Officeのライセンス切れ"
 url = "/posts/2024/ms-office-license-expired/"

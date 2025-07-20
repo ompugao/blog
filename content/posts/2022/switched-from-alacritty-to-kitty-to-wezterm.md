@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["tech"]
 Description = " サーバにsshしてdockerで開発する時間が増え、tmuxで二つpaneをつくって一つはdocker exec -it docker_image /bin/bashしてmakeしたりipythonを起動したりし、もう一つはvimで編集と"
-Tags = []
 date = "2022-10-18T15:56:00+09:00"
 title = "alacrittyからkittyを経由してweztermに移行した"
 url = "/posts/2022/switched-from-alacritty-to-kitty-to-wezterm/"

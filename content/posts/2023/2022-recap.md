@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["research", "health"]
 Description = " ざっと振り返り   1月 - 5月 ビジョンの研究  6月  国際学会発表  7月 - 9月 ビジョンの研究が頓挫、元のmotion planning系の研究にシフト  9月 - 10月 国際学会締切直前にcovid感染、ダウン&amp;"
-Tags = []
 date = "2023-01-04T21:45:00+09:00"
 title = "2022年振り返り"
 url = "/posts/2023/2022-recap/"

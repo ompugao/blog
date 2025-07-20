@@ -1,7 +1,6 @@
 +++
-Categories = ["tech"]
+Tags = ["health"]
 Description = " 体力をつけねばならない  形からでもいいから入るのだ  …これから寒くなるのにどうしよう  ジムもめちゃ費用高いし…  メモ: ASICS GT2000 12 28cm 4E  corp.asics.com "
-Tags = []
 date = "2024-10-15T07:38:00+09:00"
 title = "ランニングシューズを買った"
 url = "/posts/2024/bought-running-shoes/"
