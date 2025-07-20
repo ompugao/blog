@@ -1,5 +1,5 @@
 +++
-Tags = ["cooking"]
+Tags = ["cooking", "singapore"]
 Description = " Scoop Wholefoods というオーストラリア初らしい量り売りのお店でチャイの茶葉を買って飲んでいる。茶葉以外にもナッツや穀物、ドライフルーツやコーヒー、チョコなど、それぞれたくさんの種類が陳列されている。  Scoop Whol"
 date = "2023-03-11T18:29:00+09:00"
 title = "チャイうま"

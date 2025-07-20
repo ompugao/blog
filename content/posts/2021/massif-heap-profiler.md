@@ -31,7 +31,7 @@ draft = false
 
 
 <p>すると以下のリンクのようにどの関数がどれくらいヒープを使っているかが可視化される。超べんり。
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fapps.kde.org%2Fen%2Fmassif-visualizer" title="Massif-Visualizer" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://apps.kde.org/en/massif-visualizer">apps.kde.org</a></cite></p>
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fapps.kde.org%2Fen%2Fmassif-visualizer" title="Massif-Visualizer" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://apps.kde.org/en/massif_visualizer">apps.kde.org</a></cite></p>
 
 <p>こんな便利なプログラムがフリーで使えるのは本当にありがたい。</p>
 
