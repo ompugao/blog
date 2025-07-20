@@ -1,7 +1,7 @@
 +++
 date = '2025-07-20T12:45:14+09:00'
 draft = false
-title = 'Emerge of Agentic Coding'
+title = 'The Emergence of Agentic Coding'
 tags = ["tech"]
 description = "Claude Codeの正式リリースから約1ヶ月。opusのモデルのコーディング性能もさることながら、cliとしての使い勝手、$100/$200 定額プランなどを理由に爆発的な人気が出た。..."
 +++
