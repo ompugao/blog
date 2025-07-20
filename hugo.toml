@@ -3,7 +3,7 @@ languageCode = 'ja-JP'
 title = 'おんぷの日記'
 theme = "ezhil"
 
-copyright = "© Copyright Shohei Fujii 2025"
+copyright = "© Copyright @ompugao 2025"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
