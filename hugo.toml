@@ -36,7 +36,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = ""
+    #subtitle = ""
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
